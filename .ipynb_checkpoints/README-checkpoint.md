@@ -25,7 +25,6 @@ This repository hosts materials which describe the structure and operation this 
 |--------------------------|----------------|------|---------------------------------|
 |Monday                    |9:10 - 10:00 AM  |A     |Practice, coaching, work time    |
 |Wednesday                 |9:10 - 10:00 AM  |B     |Practice, coaching, work time    |
-|Wednesday                 |9:10 - 10:00 AM  |B     |Practice, coaching, work time    |
 |Thursday                  |2:30 - 3:30 PM  |A     |Lab session                      |
 |Thursday                  |3:30 - 4:30 PM  |B     |Lab session                      |
 |Friday                    |9:10 - 10:00 AM  |A/B   |Code demonstration, Q & A        |
