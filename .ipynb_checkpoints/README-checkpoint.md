@@ -29,6 +29,8 @@ This repository hosts materials which describe the structure and operation this 
 |Thursday                  |3:30 - 4:30 PM  |B     |Lab session                      |
 |Friday                    |9:10 - 10:00 AM  |A/B   |Code demonstration, Q & A        |
 
+![CMPSC 100 Course Flow](https://raw.githubusercontent.com/allegheny-college-cmpsc-100-fall-2020/course-materials/media/media/CMPSC%20100%20-%20Course%20Flow.png)
+
 ### Contact
 
 * Instructor: Douglas Luman
