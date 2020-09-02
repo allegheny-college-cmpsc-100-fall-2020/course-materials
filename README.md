@@ -21,15 +21,15 @@ This repository hosts materials which describe the structure and operation this 
 
 ### Meeting times and purposes
 
+![CMPSC 100 Course Flow](https://raw.githubusercontent.com/allegheny-college-cmpsc-100-fall-2020/course-materials/media/media/CMPSC%20100%20-%20Course%20Flow.png)
+
 |Day(s) of Week            |Time            |Group |Purpose of class session         |
 |--------------------------|----------------|------|---------------------------------|
 |Monday                    |9:10 - 10:00 AM  |A     |Practice, coaching, work time    |
 |Wednesday                 |9:10 - 10:00 AM  |B     |Practice, coaching, work time    |
-|Thursday                  |2:30 - 3:30 PM  |A     |Lab session                      |
-|Thursday                  |3:30 - 4:30 PM  |B     |Lab session                      |
+|Thursday                  |3:00 - 4:00 PM  |A     |Lab session                      |
+|Thursday                  |4:00 - 5:00 PM  |B     |Lab session                      |
 |Friday                    |9:10 - 10:00 AM  |A/B   |Code demonstration, Q & A        |
-
-![CMPSC 100 Course Flow](https://raw.githubusercontent.com/allegheny-college-cmpsc-100-fall-2020/course-materials/media/media/CMPSC%20100%20-%20Course%20Flow.png)
 
 ### Contact
 
@@ -41,13 +41,13 @@ This repository hosts materials which describe the structure and operation this 
 
 |Day(s) of Week            |Time          |
 |--------------------------|--------------|
-|Monday                    |10:00 - 12:30 |
-|                          |17:00 - 18:00 |
-|Wednesday                 |10:00 - 12:30 |
-|                          |17:00 - 18:00 |
-|Thursday                  |12:00 - 14:30 |
-|Friday                    |10:00 - 12:30 |
-|                          |14:45 - 16:00 |
+|Monday                    |10:00a - 12:30p |
+|                          |5:00p - 6:00p |
+|Wednesday                 |10:00a - 12:30p |
+|                          |5:00p - 6:00p |
+|Thursday                  |12:00p - 2:30p |
+|Friday                    |10:00a - 12:30p |
+|                          |2:45p - 4:00p |
 
 * All times EST
 
