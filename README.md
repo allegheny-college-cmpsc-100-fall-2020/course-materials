@@ -42,9 +42,7 @@ This repository hosts materials which describe the structure and operation this 
 |Day(s) of Week            |Time          |
 |--------------------------|--------------|
 |Monday                    |10:00a - 12:30p |
-|                          |5:00p - 6:00p |
 |Wednesday                 |10:00a - 12:30p |
-|                          |5:00p - 6:00p |
 |Thursday                  |12:00p - 2:30p |
 |Friday                    |10:00a - 12:30p |
 |                          |2:45p - 4:00p |
